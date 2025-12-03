@@ -1,25 +1,21 @@
-
 .testimonial-section {
-  background-color: #f5f5f5;
-  padding: 30px;
+  background-color: #f5f5f5; /* required */
+  padding: 30px;            /* required */
 }
 
-
 .testimonial {
-  background-color: white;
-  border: 1px solid #ddd;
-  padding: 20px;
+  background-color: white;       /* required */
+  padding: 20px;                 /* required */
+  border: 1px solid #ddd;        /* required */
   margin-bottom: 20px;
 }
 
-
-.testimonial .text {
+.text {
   font-size: 16px;
   color: #333;
 }
 
-
-.testimonial .author {
+.author {
   text-align: right;
   font-style: italic;
   margin-top: 10px;
